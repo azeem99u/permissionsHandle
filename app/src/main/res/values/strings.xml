@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">permissionsHandle</string>
+    <string name="permission_denied_text">Permission Denied</string>
+    <string name="storage_need_rationale_description">Storage permission is needed for proper functioning of app.</string>
+    <string name="storage_need_rationale_for_not_ask_again_flag">\"You have chosen to never ask the permission again, but storage permission is needed for proper functioning of app. \"</string>
+    <string name="enable_from_settings_text">Enable from settings</string>
+    <string name="exit_text">Exit</string>
+    <string name="ask_again_text">Ask Again</string>
+    <string name="storage_manager_permission_rationale">In Android 11, you need to allow a special storage permission</string>
+    <string name="close_app_text">Close App</string>
+    <string name="allow_text">Allow</string>
+
+</resources>
